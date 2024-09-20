@@ -42,10 +42,6 @@ This repository contains code for analyzing molecular dynamics (MD) simulation d
 
 - The project is still in progress. Additional features, refinements in clustering methods, and further analysis will be added as the research continues.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Disclaimer
 
 This code is part of ongoing research and is provided "as is." The research involves the analysis of a specific protein, but its name and details are not included in this repository.
